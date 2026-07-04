@@ -37,7 +37,7 @@ def main(option):
         else:
             file_path = argv[2]
             pattren = argv[3]
-            print(grep(file_path, pattren))
+            print(find_first(file_path, pattren))
             return
     else:
         print("Invalid option: try -h")
