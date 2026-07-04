@@ -1,3 +1,4 @@
+#!/usr/bin/env pyhon3
 from sys import argv
 
 print("######\twelcome to my first terminal tool######\nNote: this tool has a lot of problems sorry :)\n\n")
